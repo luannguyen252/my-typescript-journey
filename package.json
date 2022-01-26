@@ -1,6 +1,12 @@
 {
   "name": "my-typescript-journey",
+  "description": "The source about design and code with Typescript.",
   "private": true,
+  "keywords": [
+    "typescript",
+    "reactjs",
+    "nextjs"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
